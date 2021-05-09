@@ -9,3 +9,4 @@ gem "nokogiri", ">= 1.11.0"
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'activesupport', '>= 6.0.3.1'
 gem "kramdown", ">= 2.3.0"
+gem "rexml", ">= 3.2.5"
